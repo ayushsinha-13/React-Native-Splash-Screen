@@ -9,7 +9,7 @@ const App = () => {
   
   return (
     <View>
-      <Text style={styles.Title}>App</Text>
+      <Text style={styles.Title}>App Screen</Text>
     </View>
   )
 }
